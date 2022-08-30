@@ -1,0 +1,177 @@
+.mid-container{
+    background-color: #202020;
+}
+
+h1{
+    position: absolute;
+width: 469px;
+height: 158px;
+left: 164px;
+top: 204px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 79px;
+
+color: #FFFFFF;
+
+}
+
+.para1 {
+    position: absolute;
+width: 524px;
+height: 81px;
+left: 164px;
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+
+color: rgba(255, 255, 255, 0.9);
+
+}
+
+.webbb {
+    position: absolute;
+width: 113px;
+height: 130.73px;
+left: 17px;
+top: 5px;
+
+}
+
+.nav-item {
+    width: 100px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 40px;
+
+text-align: center;
+
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.veccc{
+    position: relative;
+    left: 520px;
+    top:100px;
+    
+    
+ }
+
+.vec1 {
+    position:relative ;
+    left : 400px;
+    bottom: 300px;
+}
+   
+.logoo {
+    position: relative;
+    bottom:100px;
+}
+
+
+.hello{
+    position: absolute;
+width: 1600px;
+height: 255px;
+left: 0px;
+top: 645px;
+
+background: radial-gradient(100% 2631.09% at 0% 0%, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.558) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+backdrop-filter: blur(50px);
+}
+
+.rect {
+    position:absolute;
+    bottom: 0px;
+    left: 160px;
+    
+    
+}
+h5{
+    position: absolute;
+    width: 427px;
+    height: 36px;
+    left: 571px;
+    top: 50px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+    
+.para2 {
+    position: absolute;
+width: 427px;
+height: 93px;
+left: 571px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 31px;
+
+color: rgba(255, 255, 255, 0.9);
+
+}
+
+h6{
+    position: absolute;
+width: 129px;
+height: 36px;
+left: 1100px;
+top: 50px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.para3{
+    position: absolute;
+width: 238px;
+height: 62px;
+left: 1100px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 31px;
+
+color: rgba(255, 255, 255, 0.9);
+}
+
+
+
+
+
